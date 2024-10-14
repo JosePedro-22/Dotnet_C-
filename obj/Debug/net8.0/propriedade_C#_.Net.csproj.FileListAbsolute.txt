@@ -1,0 +1,14 @@
+C:\Users\José Pedro\Documents\Estudos\bootcamps\propriedade_C#_.Net\bin\Debug\net8.0\propriedade_C#_.Net.exe
+C:\Users\José Pedro\Documents\Estudos\bootcamps\propriedade_C#_.Net\bin\Debug\net8.0\propriedade_C#_.Net.deps.json
+C:\Users\José Pedro\Documents\Estudos\bootcamps\propriedade_C#_.Net\bin\Debug\net8.0\propriedade_C#_.Net.runtimeconfig.json
+C:\Users\José Pedro\Documents\Estudos\bootcamps\propriedade_C#_.Net\bin\Debug\net8.0\propriedade_C#_.Net.dll
+C:\Users\José Pedro\Documents\Estudos\bootcamps\propriedade_C#_.Net\bin\Debug\net8.0\propriedade_C#_.Net.pdb
+C:\Users\José Pedro\Documents\Estudos\bootcamps\propriedade_C#_.Net\obj\Debug\net8.0\propriedade_C#_.Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\José Pedro\Documents\Estudos\bootcamps\propriedade_C#_.Net\obj\Debug\net8.0\propriedade_C#_.Net.AssemblyInfoInputs.cache
+C:\Users\José Pedro\Documents\Estudos\bootcamps\propriedade_C#_.Net\obj\Debug\net8.0\propriedade_C#_.Net.AssemblyInfo.cs
+C:\Users\José Pedro\Documents\Estudos\bootcamps\propriedade_C#_.Net\obj\Debug\net8.0\propriedade_C#_.Net.csproj.CoreCompileInputs.cache
+C:\Users\José Pedro\Documents\Estudos\bootcamps\propriedade_C#_.Net\obj\Debug\net8.0\propriedade_C#_.Net.dll
+C:\Users\José Pedro\Documents\Estudos\bootcamps\propriedade_C#_.Net\obj\Debug\net8.0\refint\propriedade_C#_.Net.dll
+C:\Users\José Pedro\Documents\Estudos\bootcamps\propriedade_C#_.Net\obj\Debug\net8.0\propriedade_C#_.Net.pdb
+C:\Users\José Pedro\Documents\Estudos\bootcamps\propriedade_C#_.Net\obj\Debug\net8.0\propriedade_C#_.Net.genruntimeconfig.cache
+C:\Users\José Pedro\Documents\Estudos\bootcamps\propriedade_C#_.Net\obj\Debug\net8.0\ref\propriedade_C#_.Net.dll
