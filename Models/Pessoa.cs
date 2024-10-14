@@ -7,7 +7,8 @@ namespace propriedade_C__.Net.Models
 {
     public class Pessoa
     {
-
+        public Pessoa(){}
+        public Pessoa(string nome, int Idade){}
         private string _nome;
         public string Nome { 
             get => _nome.ToUpper();
